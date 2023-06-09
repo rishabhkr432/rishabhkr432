@@ -1,8 +1,8 @@
  <h3><samp>Hi, I'm Rishabh Kumar! <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width="28"><a href="https://github.com/rishabhkr432">
 </a></samp></h3>
 
-<br/>Seeking Opportunities as an Entry/Junior Level Software Engineer. </em></samp></p>
-🥅 <b>2022 Goals:</b> land a full-time SWE job, learn more about web3.js, and build defi apps.<br />
+<br/>
+🥅 <b>2023 Goals:</b> Learn more about web3.js, and build defi apps.<br />
 🧙🏽‍♂️ <b>Fun Fact:</b> I have achieved "Masters" rank in Apex legends.</samp></p>
  <div>
   <a href="https://github.com/rishabhkr432">
